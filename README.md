@@ -2,6 +2,15 @@
 
 This project allows users to upload a CSV or Excel file and visualize the data using different types of charts. It helps in creating insights from data by providing various visual representations like bar charts, line charts, pie charts, and scatter plots.
 
+**Built With**  
+- [Streamlit](https://streamlit.io/) – for the interactive web UI  
+- pandas – data loading & manipulation  
+- matplotlib & seaborn – static plotting  
+- plotly – interactive charts  
+
+This project allows users to upload a CSV or Excel file and visualize the data using different types of charts. …
+
+
 ## Features
 
 - Upload CSV or Excel files.
