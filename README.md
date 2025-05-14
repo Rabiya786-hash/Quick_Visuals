@@ -25,7 +25,8 @@ To run this project, you need to install the following Python libraries:
 You can install these dependencies by running the following command:
 
 ```bash
-pip install pandas matplotlib seaborn plotly streamlit
+pip install pandas matplotlib seaborn plotly streamlit ```
+
 
 git clone https://github.com/Rabiya786-hash/Quick_Visuals.git
 cd Quick_Visuals \
