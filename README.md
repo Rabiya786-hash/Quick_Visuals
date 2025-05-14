@@ -28,11 +28,13 @@ You can install these dependencies by running the following command:
 ```bash
 pip install pandas matplotlib seaborn plotly streamlit
 
-🛠️ Installation and run
-Clone the repo
+## 🛠️ **Installation and Run**
+
+### **Clone the repo**
+```bash
 git clone https://github.com//Rabiya786-hash/Quick_Visuals.git
 cd Quick_Visuals
 
-Run dashboard.py:
-python -m streamlit run dashboard.py
+**Run using** python -m streamlit run dashboard.py
+
 
