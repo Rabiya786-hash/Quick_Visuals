@@ -30,6 +30,6 @@ pip install pandas matplotlib seaborn plotly streamlit
 You can run and use this code as follows:
 
 git clone https://github.com/Rabiya786-hash/Quick_Visuals.git
-cd Quick_Visuals \
+cd Quick_Visuals 
 python -m streamlit run dashboard.py
  ```
