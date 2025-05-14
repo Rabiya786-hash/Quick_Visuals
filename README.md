@@ -17,24 +17,16 @@ This project allows users to upload a CSV or Excel file and visualize the data u
 
 To run this project, you need to install the following Python libraries:
 
-- pandas
-- matplotlib
-- seaborn
-- plotly
-- streamlit
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `plotly`
+- `streamlit`
 
 You can install these dependencies by running the following command:
 
 ```bash
 pip install pandas matplotlib seaborn plotly streamlit
-
-## 🛠️ **Installation and Run**
-
-### **Clone the repo**
-```bash
-git clone https://github.com//Rabiya786-hash/Quick_Visuals.git
-cd Quick_Visuals
-
-**Run using** python -m streamlit run dashboard.py
-
-
+git clone https://github.com/Rabiya786-hash/Quick_Visuals.git 
+  && cd Quick_Visuals \
+  && python -m streamlit run dashboard.py
